@@ -7,7 +7,7 @@ I am a clinical data scientist and educator. As a data scientist, I apply method
 
 ### Educational Work
 I work as an adjunct professor at [Utah Valley University](https://www.uvu.edu/), where I teach **INFO-3700: Foundations of Healthcare Informatics**. I've also taught at various summer schools and online workshops. Whenever possible, I try to make my materials available publicly. Here are some links to online courses or tutorials which I've contributed to.
-- [Foundations of Healthcare Informatics, Spring 2020](https://github.com/abchapman93/info_3700_spring_2020): Materials include analyzing clinical data with MIMIC, training a machine learning classifier to predict diabetes, and using NLP to extract information from clinical text
+- [Foundations of Healthcare Informatics, Fall 2020](https://github.com/abchapman93/info_3700_fall_2020): Materials include analyzing clinical data with MIMIC, training a machine learning classifier to predict diabetes, and using NLP to extract information from clinical text
 - [MIMIC34MD](https://github.com/Melbourne-BMDS/mimic34md2020_materials): A crash course in clinical data science at the University of Melbourne
 
 <!--
